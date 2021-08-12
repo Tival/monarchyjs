@@ -1,0 +1,27 @@
+{
+  "name": "monarchyjs",
+  "version": "1.0.0",
+  "description": "NodeJS library that handle cluster communication and leader election using simple kingdom mechanism (the oldest one is a monarch)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tival/monarchyjs.git"
+  },
+  "keywords": [
+    "King",
+    "Election",
+    "Master",
+    "Cluster",
+    "High",
+    "Avability"
+  ],
+  "author": "tival",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Tival/monarchyjs/issues"
+  },
+  "homepage": "https://github.com/Tival/monarchyjs#readme"
+}
